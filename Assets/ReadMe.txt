@@ -15,4 +15,9 @@ Object Pattern (Multiple Type of Weapons having different damage)
 		} //Make a prefab and adjust the damage accordingly
 
 	use scriptable object when we have more than 100 or 1000 weapons
+	Type Pattern And Prototype Pattern
 
+Command Pattern (a way to tell other objects what to do) behaviorial design pattern
+
+Factory Pattern(all of our creation of objects in single place)(single place to get all the code change the factory settings)
+	
